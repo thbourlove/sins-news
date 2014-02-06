@@ -1,0 +1,9 @@
+{
+    "require": {
+        "predis/predis": "0.8.*@dev",
+        "fabpot/goutte": "~1.0"
+    },
+    "require-dev": {
+        "raveren/kint": "dev-1.0.0-wip"
+    }
+}
